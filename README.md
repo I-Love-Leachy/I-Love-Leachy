@@ -1,5 +1,13 @@
-## Hi there 👋 I’m a Full Stack Developer with a passion for crafting intuitive web applications. I thrive on transforming ideas into reality, blending functionality with stunning design.
+## Hi there 👋 I'm Leandra Chevrier
 
+I’m a Full Stack Developer with a passion for crafting intuitive web applications. <br>
+I thrive on transforming ideas into reality, blending functionality with stunning design.
+
+## 👨‍💻 Professional Skills
+
+Languages: JavaScript, HTML, CSS, Typescript, Node.js, SQL <br>
+Frameworks: Tailwindcss, Express.js, Electron.js, React-native <br>
+Database: Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
 <!--
 **I-Love-Leachy/I-Love-Leachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
