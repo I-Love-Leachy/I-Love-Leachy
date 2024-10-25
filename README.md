@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m a Full Stack Developer with a passion for crafting intuitive web applications. I thrive on transforming ideas into reality, blending functionality with stunning design.
 
 <!--
 **I-Love-Leachy/I-Love-Leachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
