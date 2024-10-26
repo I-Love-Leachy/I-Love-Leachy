@@ -5,7 +5,7 @@ I thrive on transforming ideas into reality, blending functionality with stunnin
 
 ## 👨‍💻 Professional Skills
 
-Languages: JavaScript, HTML, CSS, Typescript, Node.js, SQL <br>
+Languages: JavaScript, HTML, CSS, Node.js, SQL <br>
 Frameworks: Tailwindcss, Express.js, Electron.js, React-native <br>
 Database: Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
 <!--
