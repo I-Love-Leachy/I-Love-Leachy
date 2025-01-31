@@ -5,8 +5,8 @@ I thrive on transforming ideas into reality, blending functionality with stunnin
 
 ## 👨‍💻 Professional Skills
 
-Languages: JavaScript, HTML, CSS, Node.js, SQL <br>
-Frameworks: Tailwindcss, Express.js, Electron.js, React-native <br>
+Languages: JavaScript, TypeScript, Python, HTML, CSS, Node.js, SQL <br>
+Frameworks: React, Angular, Django, Tailwindcss, Express.js, Electron.js, React-native <br>
 Database: Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
 <!--
 **I-Love-Leachy/I-Love-Leachy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
