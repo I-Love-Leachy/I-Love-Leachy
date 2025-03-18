@@ -1,13 +1,22 @@
 ## Hi there 👋 I'm Leandra Chevrier
 
-I’m a Full Stack Developer with a passion for crafting intuitive web applications. <br>
-I thrive on transforming ideas into reality, blending functionality with stunning design.
+I’m a Full Stack Developer passionate about crafting intuitive and innovative web applications. <br>
+I thrive on transforming ideas into reality, blending functionality with sleek design. <br>
+Recently, I’ve also been diving into AI integration and data analysis, <br>
+exploring how these technologies can enhance user experiences and drive smarter, more efficient digital solutions. <br>
 
 ## 👨‍💻 Professional Skills
 
-Languages: JavaScript, TypeScript, Python, HTML, CSS, Node.js, SQL <br>
-Frameworks: React, Angular, Django, Tailwindcss, Express.js, Electron.js, React-native <br>
-Database: Relational Database (PostgreSQL) / Non-Relational Database (MongoDB)
+Markup & Styling: HTML, CSS <br>
+Programming Languages: JavaScript, TypeScript, Python, SQL <br>
+Runtime & Tools: Node.js <br>
+Frameworks & Libraries: React, Angular, Django, TailwindCSS, Express.js, Electron.js, React Native <br>
+Databases: Relational (PostgreSQL) / Non-Relational (MongoDB) <br>
+Testing Tools: Jest, Pytest <br>
+DevOps & Deployment: CI/CD, Docker <br>
+<br>
+>Currently Learning: <br> Machine Learning (API integration: Hugging Face, Ollama; data cleaning, analysis, and feature engineering). <br>
+Data Science fundamentals (data exploration, preparation, and working with Kaggle datasets). <br>
 
 ## ⭐️ Some of my projects
 
